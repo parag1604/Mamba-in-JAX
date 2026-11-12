@@ -6,7 +6,7 @@ Code for state space models in JAX/Flax, from a single linear SSM (recurrent and
 
 ## Theory
 
-Lecture notes for this topic are coming soon on https://parag1604.github.io/notes
+A dedicated lecture on state space models is coming soon on https://parag1604.github.io/notes. Until then, the background is in this [page](https://parag1604.github.io/notes/Probability-and-Linear-Algebra/Markov-Chains#towards-diffusion-models-and-state-space-models) (section "Towards diffusion models and state space models")
 
 ## Python Environment Setup
 
