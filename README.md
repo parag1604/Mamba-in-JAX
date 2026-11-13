@@ -17,7 +17,7 @@ Every version is trained on small synthetic tasks (copying and selective copying
 
 ## Theory
 
-A dedicated lecture on state space models is coming soon on https://parag1604.github.io/notes. Until then, the background is in this [page](https://parag1604.github.io/notes/Probability-and-Linear-Algebra/Markov-Chains#towards-diffusion-models-and-state-space-models) (section "Towards diffusion models and state space models")
+Please note that the theory corresponding to the codes is hosted on this [page](https://parag1604.github.io/notes/Machine-Learning/Sequence-Models#state-space-models) (sections "State space models", "Selectivity: Mamba" and "Mamba-2" of the Sequence Models lecture).
 
 ## Python Environment Setup
 
