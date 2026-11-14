@@ -36,7 +36,7 @@ On Apple silicon the experimental `jax-metal` plugin does not support all the op
 
 ## Data
 
-No dataset is needed. The tasks are generated on the fly (`utils.py`).
+The tasks are generated on the fly (`utils.py`).
 
 Token 0 is a blank, tokens 1–8 are data, and token 9 is a marker. The model is scored on the marker positions only, so chance is 1/8.
 
